@@ -4,8 +4,8 @@
 
 I am Beatrix Cendana. I am passionate about writing, coding, and design app/web. 
 
-- 🔭 I’m currently a **full-time student** focusing on business and tech, and also, I am a **designer**.
-- 🌱 I’m currently learning Intro to Serverless Project and web development using ReactJS.
+- 🔭 I’m currently a **full-time student** focusing on business and tech, and also, I am a **designer/writer**.
+- 🌱 I’m currently learning Intro to Serverless Project using JS and web development using ReactJS.
 - 😄 Pronouns: She/her/hers 👸
 - ⚡ Fun fact: 
    - I come from non-tech background, which is medical field. 

@@ -2,7 +2,7 @@
 
 <img width="20%" align="right" alt="Github" src="https://drive.google.com/thumbnail?id=1BGb13XSE-E8ZeAVG3g_ZyBZ1egEmFaj2" />
 
-I am Beatrix Cendana. I am passionate about writing, coding, and design app/web. 
+I am Beatrix Cendana. I am passionate about writing content (UX writing and article), coding, and designing app/web. 
 
 - 🔭 I’m currently a **full-time student** focusing on business and tech, and also, I am a **designer/writer**.
 - 🌱 I’m currently learning Intro to Serverless Project using JS and web development using ReactJS.

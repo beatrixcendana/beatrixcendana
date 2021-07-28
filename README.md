@@ -1,4 +1,4 @@
-### Howdy! 👋
+### Hello! Halo!👋
 
 <img width="20%" align="right" alt="Github" src="https://drive.google.com/thumbnail?id=1BGb13XSE-E8ZeAVG3g_ZyBZ1egEmFaj2" />
 

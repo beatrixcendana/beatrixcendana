@@ -8,7 +8,7 @@ I am Beatrix Cendana. I am passionate about writing content (UX writing and arti
 - 🌱 I’m currently learning Intro to Serverless Project using JS and web development using ReactJS.
 - 😄 Pronouns: She/her/hers 👸
 - ⚡ Fun fact: 
-   - I come from non-tech background, which is medical field. 
+   - I come from non-tech background, which is medical and graphic design field. 
    - I am also an Indonesian traditional dancer! 💃
 - 📫 How to reach me: [Twitter](https://twitter.com/Beatrixcdn),  [Email](mailto:beatrix.intan@gmail.com), [Website](http://beatrixcendana.com/), [Medium](https://medium.com/@beatrixcendana)
 

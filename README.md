@@ -12,6 +12,9 @@ I am Beatrix Cendana. I am passionate about writing content (UX writing and arti
    - I come from non-tech background, which is medical and graphic design field. 
    - I am also an Indonesian traditional dancer! 💃
 - 📫 How to reach me: [Twitter](https://twitter.com/Beatrixcdn),  [Email](mailto:beatrix.intan@gmail.com), [Website](http://beatrixcendana.com/), [Medium](https://medium.com/@beatrixcendana)
+- Check my first coding project in the camp [Link here](https://github.com/beatrixcendana/Food-API-Generator-V1/blob/main/blog.md)
+
+<br> 
 
 > Time is our most precious commodity. If you’re not using it wisely, you’re wasting it ignorantly. <br/>
 > -- *Who Says You can't, You Do Book*

@@ -5,7 +5,7 @@ I am Beatrix Cendana. I am passionate about writing content (UX writing and arti
 <img src = "https://drive.google.com/uc?export=view&id=18XCbQsoQaXV9pNTYGky88VEZ-xpVIiZz" alt = "My picture" width = 700/>
 
 
-- 🔭 I’m currently a **full-time student** focusing on business and HCI, and also, I am a **designer/writer**.   
+- 🔭 I’m currently a **full-time student** focusing on business and (soon) HCI, and also, I am a **designer/writer**.   
 - 🌱 I’m currently learning Intro to Serverless Project using JS and web development using ReactJS.
 - 😄 Pronouns: She/her/hers 👸
 - ⚡ Fun fact: 

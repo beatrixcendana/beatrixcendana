@@ -11,7 +11,7 @@ I am Beatrix Cendana. I am passionate about writing content (UX writing and arti
 - ⚡ Fun fact: 
    - I come from non-tech background, which is medical and graphic design field. 
    - I am also an Indonesian traditional dancer! 💃
-- 📫 View My Stories: [Twitter](https://twitter.com/Beatrixcdn),  [Email](mailto:beatrix.intan@gmail.com), [Website](http://beatrixcendana.com/), [Medium](https://medium.com/@beatrixcendana), [YouTube](https://youtube.com/beatrixcendana)
+- 📫 View My Stories: [Twitter](https://twitter.com/Beatrixcdn), [Website](http://beatrixcendana.com/), [Medium](https://medium.com/@beatrixcendana), [YouTube](https://youtube.com/beatrixcendana)
 - Check my first coding project in the camp [Link here](https://github.com/beatrixcendana/Food-API-Generator-V1/blob/main/blog.md)
 
 <br> 

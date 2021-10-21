@@ -18,7 +18,7 @@
    - I am also an Indonesian traditional dancer! 💃
 - 📫 View My Stories: [Twitter](https://twitter.com/Beatrixcdn), [Website](http://beatrixcendana.com/), [Medium](https://medium.com/@beatrixcendana), [YouTube](https://youtube.com/beatrixcendana)
 - Check my first coding project in the camp [Link here](https://github.com/beatrixcendana/Food-API-Generator-V1/blob/main/blog.md)
-   - To view my presentation in the tech conference (my session was in 04:17:58), feel free to click the link below:
+   - To view my presentation in the tech conference (my session was in 04:17:58), feel free to click the picture below:
    
       
       <a href="https://www.youtube.com/watch?v=l_1BhV-dtMk&t=16434s"><img src="https://i.imgur.com/eCgb5aN.jpg" title="Serverless reminder SMS" width = 700/></a>

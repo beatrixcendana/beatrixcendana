@@ -4,7 +4,7 @@
 
 <br>
 
-<img src = "https://drive.google.com/uc?export=view&id=1Q-hNGl2-VEVjX4slZrMz29sjwzArkfii" alt = "My picture" width = 700/>
+<img src = "https://drive.google.com/uc?export=view&id=1lrKuZaRAqsQQq0zaxt-9JHZOLXJJ6UVm" alt = "My picture" width = 700/>
 
 <br>
 

@@ -11,7 +11,8 @@
 
 - 🔭 I’m currently a **full-time student** focusing on business and design, and also, I am a **designer/writer**.   
 
-- 🌱 I’m currently learning about ***Azure function*** and taking ***web development course in Freecodecamp***.
+- 🌱 I’m currently learning about ***Design System*** and taking ***web development course in Freecodecamp***.
+- 😄 Interest: ranging from designing beautiful website/app, game making.
 - 😄 Pronouns: She/her/hers 👸
 - ⚡ Fun fact: 
    - I come from non-tech background, which is medical and graphic design field. 

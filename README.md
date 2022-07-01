@@ -9,7 +9,7 @@
 <br>
 
 
-- 🔭 I’m currently a **full-time student** focusing on business and design, and also, I am a **designer/writer**.   
+- 🔭 I’m currently a **full-time student** focusing on business and design, and I am a freelance **designer/writer**. I am also a community manager at [Bit Project](https://www.bitproject.org/) 
 
 - 🌱 I’m currently learning about ***Design System*** and taking ***web development course in Freecodecamp***.
 - 😄 Interest: ranging from designing beautiful website/app, game making.

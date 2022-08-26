@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently a **full-time student** focusing on business and design, and I am a freelance **designer/writer**. I am also a community manager at [Bit Project](https://www.bitproject.org/) 
 
-- 🌱 I’m currently learning about ***Design System*** and taking ***web development course in Freecodecamp***.
+- 🌱 I’m currently learning about ***Design System***, ***UX Writing*** and taking ***web development course in Freecodecamp***.
 - 😄 Interest: ranging from designing beautiful website/app, game making.
 - 😄 Pronouns: She/her/hers 👸
 - ⚡ Fun fact: 

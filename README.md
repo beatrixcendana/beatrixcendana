@@ -10,7 +10,7 @@ I am a Designer/Writer with a range of interests starting from designing the app
 <br>
 
 
-- 🔭 I’m currently a looking for an opportunity as a **Content Designer** or **Tech Writer**. I was also a former community manager at [Bit Project](https://www.bitproject.org/), one of non profit organizations focusing on helping students that want to break into tech or STEM.
+- 🔭 I’m currently a looking for an opportunity as a **Content Designer** or **Tech Writer**. I am also a Prep Fellow Alum (March 2023) at [Major League Hacking Pre Fellowship Program](https://fellowship.mlh.io/programs/prep) and former community manager at [Bit Project](https://www.bitproject.org/), one of non profit organizations focusing on helping students that want to break into tech or STEM.
 
 - 🌱 I’m currently learning about ***SEO or Marketing*** and taking ***web development course in Freecodecamp***.
 - 😄 Interest: learning new things (everything! Including automotive and digital products).
